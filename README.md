@@ -4,9 +4,9 @@
 
 ### About Me
 
-Living in Latvia
-💜 Web Development
-💜 Pizza
+Web Developer 🤔
 
+### Contacts
 
-
+discord: snitch#8630  
+vk.com: https://vk.com/soiderblyat  
