@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: HTML, CSS, JS, PHP, Python
-- 📫 How to reach me: Discord: soider#5513
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
