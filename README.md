@@ -17,5 +17,5 @@ Web Developer 🤔
 
 ### Contacts
 
-discord: snitch#8630  
+discord: s1d3r#8630  
 vk.com: https://vk.com/soiderblyat  
